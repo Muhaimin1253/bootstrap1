@@ -1,0 +1,69 @@
+.m{
+	margin-bottom: 10px;
+}
+.n{
+	margin-bottom: 10px;
+}
+.logo{
+	background-color: gray;
+	border-radius: 5px;
+}
+.logo h3{
+	color: white;
+}
+.nav-ber{
+	background-color: skyblue;
+	border-radius: 5px;
+}
+.nav-ber ul{
+	margin: 10px auto;
+	float: right;
+}
+.nav-ber li{
+	color: white;
+	display: inline;
+	text-decoration: none;
+	border: 1px solid white;
+	border-radius: 5px;
+	margin-right: 15px;
+	margin-top:5px;
+	padding: 3px;
+}
+.nav-ber ul li a:hover{
+	background-color: blue;
+	color: white;
+}
+.xx img{
+	height: 200px;
+	width: 350px;
+	border: 1px solid dodgerblue;
+	border-radius: 25px;
+}
+.yy img{
+	height: 200px;
+	width: 350px;
+	border: 1px solid dodgerblue;
+	border-radius: 25px;
+}
+.zz img{
+	height: 200px;
+	width: 350px;
+	border: 1px solid dodgerblue;
+	border-radius: 25px;
+}
+.one{
+	background-color: grey;
+	border-radius: 15px;
+}
+.one p{
+	text-align: justify;
+	color: white;
+}
+.two{
+	background-color: #f5f3ff;
+	border-radius: 15px;
+}
+.two p{
+	text-align: justify;
+	color: green;
+}
